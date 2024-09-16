@@ -5,7 +5,7 @@ It's supposed to be a web page for an FM radio in Athens, Greece, playing mainst
 - Technologies used: CSS, HTML, BootStrap, JavaScript, jQuery. 
 
 ## Link:
---> https://dimtsagk.github.io/thestudio99/
+--> (https://dimtsagk.github.io/thestudio99-HTML-Bootstrap/
 
 ![st991](https://github.com/user-attachments/assets/ee23fb1e-90ce-489e-ba6b-edcaeeffbf9d)
 
